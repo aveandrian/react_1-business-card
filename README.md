@@ -1,4 +1,4 @@
-# Simple business card  
+# Business card  
 
 Solo project, part of React course.   
 
